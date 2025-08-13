@@ -3,7 +3,7 @@
   <h3>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</h3>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFld3E0cHVmdmxzZDV3eG9uYndhZDBqZm5hYjB3ZzM0cHF6dXBiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ylyS84b6y3Y2h2I1eD/giphy.gif" alt="Gráficos e visualizações de dados" width="100%" height="200px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuOG1zcGlpOTRzZjQzYmVwZ2d0bXoxb2V6aXZlYjBpc21idGZyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WgH8KHe3oD1o5p9a44/giphy.gif" alt="Fluxo de dados digitais em alta velocidade" width="100%" height="200px">
 
 ---
 
