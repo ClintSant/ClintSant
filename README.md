@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="300" alt="Banner animado">
-</p>
+![Coding Screen](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM1OWcxOHYxZm54ZThvN2Y1cXVvanQ5bnNtZ2o0aGRiMHJ0NXJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lDiKsZEFu/giphy.gif)</p>
 
 <h1 align="center"> Eai, eu sou o Clinton Santos </h1>
 
