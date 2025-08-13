@@ -1,5 +1,4 @@
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRyOHhhMmhhNG9rY256c2FmcTl1dWp3aW1lcHB1YmRzaTk1dzFudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Pessoa programando com código refletido nos óculos" width="100%" height="200px">
 
 </h1> Eai, eu sou o Clinton </h1>
 
