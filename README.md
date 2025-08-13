@@ -1,8 +1,9 @@
 <div align="center">
   <h1>E aí, eu sou o Clinton 👋</h1>
   <h3>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</h3>
-</div>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZqYjZ1bDQ5a29kNHRscW12Mm94a282bTdza3U0cTJpZHAyZnR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2m2C02s4kO5GZk2T3/giphy.gif" alt="Rede de dados abstrata se movendo" width="100%" height="200px">
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFld3E0cHVmdmxzZDV3eG9uYndhZDBqZm5hYjB3ZzM0cHF6dXBiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ylyS84b6y3Y2h2I1eD/giphy.gif" alt="Gráficos e visualizações de dados" width="100%" height="200px">
 
 ---
 
