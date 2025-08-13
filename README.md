@@ -1,35 +1,56 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_CABECALHO_AQUI" width="400">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="300" alt="Banner animado">
 </p>
 
-## Eai! Me chamo Clinton Santos 
+<h1 align="center">Oii! Me chamo Clinton Santos ✨</h1>
 
-**Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science**
+<p align="center">
+  <strong>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</strong>
+</p>
 
 ---
 
-### Um Pouco Sobre Mim
+## 🚀 Um Pouco Sobre Mim
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NscDE2dGpoZHI4ZWhxYmRnM2o5ZzZzMG5kZWVhb2w0d2d6c3V4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="300" align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
 </p>
 
-Atuo na área de Business Intelligence (BI), unindo análise de dados e storytelling para transformar informações em insights estratégicos que apoiam a tomada de decisão.  
-Estou sempre em busca de melhorar meus conhecimentos técnicos e aplicá-los em projetos práticos que gerem impacto real.  
+Atuo na área de **Business Intelligence (BI)**, unindo análise de dados e storytelling para transformar informações em insights estratégicos que apoiam a tomada de decisão.  
+Sempre busco aprimorar meus conhecimentos técnicos e aplicá-los em projetos práticos que gerem impacto real.  
 
 O que eu mais curto fazer:
-- 📊 Desenvolver dashboards interativos e inteligentes no **Power BI** usando **DAX**.
+- 📊 **Desenvolver dashboards interativos** no Power BI usando DAX.
 - 🗄️ Trabalhar com **SQL** para análise e manipulação de dados.
-- 🐍 Criar scripts em **Python** para automação.
-- 🚀 Aprender continuamente sobre **Data Science** e melhores práticas de análise de dados.
+- 🐍 Criar scripts em **Python** para automação e análise avançada.
+- 📚 Aprender continuamente sobre **Data Science** e melhores práticas.
 - ☕ Café como combustível, filosofia como bússola e dados como matéria-prima.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiBmaWxsPSIjMDAwIi8+PC9zdmc+">
-  <img src="https://img.shields.io/badg
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+---
+
+## 📫 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
