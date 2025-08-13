@@ -1,7 +1,6 @@
-<p align="center">
-![Coding Screen](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM1OWcxOHYxZm54ZThvN2Y1cXVvanQ5bnNtZ2o0aGRiMHJ0NXJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lDiKsZEFu/giphy.gif)</p>
 
-<h1 align="center"> Eai, eu sou o Clinton Santos </h1>
+
+<h1 align="center"> Eai eu sou o Clinton </h1>
 
 <p align="center">
   <strong>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</strong>
