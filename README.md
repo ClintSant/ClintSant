@@ -40,14 +40,14 @@ O que eu mais curto fazer:
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## Minhas Estatísticas
 
 <p
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=ClintSant&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ClintSant&theme=radical&hide_border=true)
 
 </p>
 
