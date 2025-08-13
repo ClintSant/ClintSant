@@ -2,7 +2,6 @@
   <h1>E aí, eu sou o Clinton 👋</h1>
   <h3>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</h3>
 
-<img src="https://i.pinimg.com/originals/8a/c5/25/8ac5256e29125345688a213568114f85.gif" alt="Rede de dados abstrata se movendo" width="100%" height="200px">
 
 ---
 
