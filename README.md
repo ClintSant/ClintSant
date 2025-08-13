@@ -47,8 +47,6 @@ O que eu mais curto fazer:
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ClintSant&theme=radical&hide_border=true)
-
 </p>
 
 
