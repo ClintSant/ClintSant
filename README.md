@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="300" alt="Banner animado">
 </p>
 
-<h1 align="center">Oii! Me chamo Clinton Santos ✨</h1>
+<h1 align="center"> Eai, eu sou o Clinton Santos </h1>
 
 <p align="center">
   <strong>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</strong>
@@ -51,6 +51,6 @@ O que eu mais curto fazer:
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/clinton-santos-094b1b214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="ergonkoine@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
