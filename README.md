@@ -42,10 +42,14 @@ O que eu mais curto fazer:
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170" src=ClintSant://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&langs_count=8&theme=dracula"/>
+<p
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=ClintSant&theme=radical)
 </p>
+
 
 ---
 
