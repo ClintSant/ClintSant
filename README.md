@@ -1,6 +1,5 @@
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA3bGNhM2R1enJlc3hkaG5rZmJhazNraWN4MGx6MGM3MnE3aHgxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="400">
-<h1 align="center"> Eai, eu sou o Clinton </h1>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRyOHhhMmhhNG9rY256c2FmcTl1dWp3aW1lcHB1YmRzaTk1dzFudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Pessoa programando com código refletido nos óculos" width="800"><h1 align="center"> Eai, eu sou o Clinton </h1>
 
 <p align="center">
   <strong>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</strong>
