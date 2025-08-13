@@ -2,8 +2,7 @@
   <h1>E aí, eu sou o Clinton 👋</h1>
   <h3>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</h3>
 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuOG1zcGlpOTRzZjQzYmVwZ2d0bXoxb2V6aXZlYjBpc21idGZyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WgH8KHe3oD1o5p9a44/giphy.gif" alt="Fluxo de dados digitais em alta velocidade" width="100%" height="200px">
+<img src="https://i.pinimg.com/originals/8a/c5/25/8ac5256e29125345688a213568114f85.gif" alt="Rede de dados abstrata se movendo" width="100%" height="200px">
 
 ---
 
