@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Um Pouco Sobre Mim
+##  Um Pouco Sobre Mim 🧑🏻‍💻
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🤖 Tecnologias e Ferramentas 🤖
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+### 🔎 Linguagens e Contribuições 🔎
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de ClintSant">
@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Onde me encontrar 📫
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clinton-santos-094b1b214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
