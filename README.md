@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de ClintSant">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical" alt="Linguagens mais usadas por ClintSant">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical&count_private=true" alt="Linguagens mais usadas por ClintSant">
 </div>
 
 ---
