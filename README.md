@@ -14,11 +14,11 @@
       <p>Sempre busco aprimorar meus conhecimentos técnicos e aplicá-los em projetos práticos que gerem impacto real.</p>
       <p>O que eu mais curto fazer:</p>
       <ul>
-        <li>📊 <strong>Desenvolver dashboards interativos</strong> no Power BI usando DAX.</li>
-        <li>🗄️ Trabalhar com <strong>SQL</strong> para análise e manipulação de dados.</li>
-        <li>🐍 Criar scripts em <strong>Python</strong> para automação e análise avançada.</li>
+      
+        <li>🗄️ Trabalhar com  análise e manipulação de dados.</li>
+        <li>🐍 Criar scripts e automação e análise avançada.</li>
         <li>📚 Aprender continuamente sobre <strong>Data Science</strong> e melhores práticas.</li>
-        <li>☕ Café como combustível, filosofia como bússola e dados como matéria-prima.</li>
+        <li>☕ Café  filosofia e dados como matéria-prima.</li>
       </ul>
     </td>
     <td width="320" align="center" valign="top">
