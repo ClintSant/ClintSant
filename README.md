@@ -11,9 +11,7 @@
   <tr>
     <td valign="top" width="60%">
       <p>Atuo na área de <strong>Business Intelligence (BI)</strong>, unindo análise de dados e storytelling para transformar informações em insights estratégicos que apoiam a tomada de decisão.</p>
-
       <p>Sempre busco aprimorar meus conhecimentos técnicos e aplicá-los em projetos práticos que gerem impacto real.</p>
-
       <ul>
         <li>🗄️ Trabalhar com análise e manipulação de dados.</li>
         <li>🐍 Criar scripts, automação e análise avançada.</li>
@@ -21,12 +19,12 @@
         <li>☕ Café, filosofia e dados como matéria-prima.</li>
       </ul>
     </td>
-
     <td width="320" align="center" valign="top">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
     </td>
   </tr>
 </table>
+
 
 ---
 
