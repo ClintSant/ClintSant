@@ -43,10 +43,5 @@ Graduando em Ciência de Dados e IA e pós-graduando em Data Science, com foco e
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical&count_private=true&hide_border=true&cache_seconds=1800">
+  <img height="180em" src="https://streak-stats.demolab.com?user=ClintSant&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR">
 </div>
-
----
-
-## Projetos em D
