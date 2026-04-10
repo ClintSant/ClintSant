@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Analista de Dados com experiência em monetização de mídia programática, BI e automação de processos. Atuo na interseção entre análise técnica e visão de negócio — transformando dados em decisões estratégicas.
+Analista de Dados Jr
 
 Graduando em Ciência de Dados e IA e pós-graduando em Data Science, com foco em projetos práticos que combinam programação, inteligência artificial e pensamento analítico.
 
@@ -43,17 +43,10 @@ Graduando em Ciência de Dados e IA e pós-graduando em Data Science, com foco e
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical&count_private=true&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&theme=radical&count_private=true&hide_border=true&cache_seconds=1800">
 </div>
 
 ---
 
-## Projetos em Destaque
-
-### Argus — Analisador de Coerência Argumentativa
-App com IA integrada que detecta falácias lógicas e contradições em textos usando LLM via Groq API.
-
-**Stack:** Python · Streamlit · Groq API · LLaMA 3.3 70B
-
-[Repositório](https://github.com/ClintSant/Projeto-Argus) · [Demo ao vivo](https://projeto-argus-dn5pjrohdkimeuwfvxsbuj.streamlit.app)
+## Projetos em D
