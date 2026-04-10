@@ -1,6 +1,6 @@
 <div align="center">
   <h1>E aí, eu sou o Clinton 👋</h1>
-  <h3>Analista de Business Intelligence | Estudante de Ciência de Dados | Pós-graduando em Data Science</h3>
+  <h3>Analista de Dados Jr| Estudante de Ciência de Dados | Pós-graduando em Data Science</h3>
 </div>
 
 ---
@@ -16,7 +16,7 @@
         <li>🗄️ Trabalhar com análise e manipulação de dados.</li>
         <li>🐍 Criar scripts, automação e análise avançada.</li>
         <li>📚 Aprender continuamente sobre <strong>Data Science</strong> e melhores práticas.</li>
-        <li>☕ Café, filosofia e dados como matéria-prima.</li>
+        <li>☕ Café e dados como matéria-prima.</li>
       </ul>
     </td>
     <td width="320" align="center" valign="top">
