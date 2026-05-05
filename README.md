@@ -18,7 +18,7 @@
 Analista de Dados Jr. com atuação em **monetização de mídia programática** e **Business Intelligence**. Minha trajetória cruza **Filosofia (UFMG)** e **Ciência de Dados** — uma combinação rara que traz pensamento analítico estruturado, raciocínio lógico e curiosidade investigativa para o trabalho com dados.
 
 - 🎓 **Bacharel em Filosofia – UFMG** (2021–2025) · Bolsista de Iniciação Científica CNPq (2022–2024)
-- 📊 **Analista de Dados Jr.** atuando em mídia programática · Looker Studio, SQL, Python, Power BI
+- 📊 **Analista de Dados Jr.** com experiência em mídia programática · Looker Studio, SQL, Python, Power BI
 - 🚀 **Pós em Data Science** + **Graduação em Ciência de Dados e IA** (Descomplica, em curso)
 - 🔭 Atualmente aprofundando: **Machine Learning, estatística aplicada e engenharia de dados**
 
@@ -32,6 +32,7 @@ Analista de Dados Jr. com atuação em **monetização de mídia programática**
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 **BI & Visualização**
@@ -47,6 +48,12 @@ Analista de Dados Jr. com atuação em **monetização de mídia programática**
 ![ETL](https://img.shields.io/badge/-ETL-4B5563?style=flat-square)
 ![Modelagem Dimensional](https://img.shields.io/badge/-Modelagem%20Dimensional-4B5563?style=flat-square)
 
+**LLMs & NLP**
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FFD43B?style=flat-square&logoColor=black)
+
 **Versionamento & Metodologias**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -58,30 +65,30 @@ Analista de Dados Jr. com atuação em **monetização de mídia programática**
 
 ### Projetos em destaque
 
+🤖 **[chatbot-ticket-agent (AURA)](https://github.com/ClintSant/chatbot-ticket-agent)** — *Python · LLM · NLP · Streamlit*
+> Agente conversacional para triagem automática de chamados corporativos. Usa **Groq/Llama** para classificação de gravidade e roteamento por departamento, e **sentence-transformers** com similaridade de cosseno para detectar tickets duplicados. Inclui geração de protocolo, captura estruturada de dados do solicitante e interface em Streamlit.
+
 🔹 **[Projeto-Argus](https://github.com/ClintSant/Projeto-Argus)** — *Python*
 > *[Adicionar descrição quando atualizar o README do repo]*
 
 🔹 **[order-management-db](https://github.com/ClintSant/order-management-db)** — *SQL · SQLite*
 > Modelagem de banco de dados relacional para sistema de gestão de pedidos.
 
-🔹 **🚧 Em construção — Análise SQL: Olist E-commerce (Kaggle)**
+🚧 **Em construção — Análise SQL: Olist E-commerce (Kaggle)**
 > Análise exploratória de e-commerce brasileiro com window functions, CTEs e estudo de comportamento de compra.
 
-🔹 **🚧 Em construção — EDA Python: dados públicos brasileiros**
+🚧 **Em construção — EDA Python: dados públicos brasileiros**
 > Análise exploratória em Jupyter com Pandas e visualização aplicada a dados do IBGE/INEP.
 
 ---
 
-### Estatísticas
+### Atualmente
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClintSant&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintSant&layout=compact&hide_border=true&langs_count=6" />
-</p>
+- 🛠️ Construindo um portfólio de projetos de Análise SQL e EDA com dados brasileiros
+- 📚 Estudando: **Machine Learning** (regressão e predição), **estatística aplicada** e **modelagem dimensional**
+- 🎯 Aberto a oportunidades de **Analista de Dados Jr.** e **Cientista de Dados Jr.**
 
----
-
-### Em formação contínua
+### Em formação
 
 - Pós-Graduação em Data Science · Descomplica Faculdade Digital
 - Graduação em Ciência de Dados e IA · Descomplica Faculdade Digital
