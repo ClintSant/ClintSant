@@ -17,10 +17,10 @@
 
 Analista de Dados Jr. com atuação em **monetização de mídia programática** e **Business Intelligence**. Minha trajetória cruza **Filosofia (UFMG)** e **Ciência de Dados** — uma combinação rara que traz pensamento analítico estruturado, raciocínio lógico e curiosidade investigativa para o trabalho com dados.
 
-- 🎓 **Bacharel em Filosofia – UFMG** (2021–2025) · Bolsista de Iniciação Científica CNPq (2022–2024)
-- 📊 **Analista de Dados Jr.** com experiência em mídia programática · Looker Studio, SQL, Python, Power BI
-- 🚀 **Pós em Data Science** + **Graduação em Ciência de Dados e IA** (Descomplica, em curso)
-- 🔭 Atualmente aprofundando: **Machine Learning, estatística aplicada e engenharia de dados**
+-  **Bacharel em Filosofia – UFMG** (2021–2025) · Bolsista de Iniciação Científica CNPq (2022–2024)
+-  **Analista de Dados Jr.** com experiência em mídia programática · Looker Studio, SQL, Python, Power BI
+-  **Pós em Data Science** + **Graduação em Ciência de Dados e IA** (Descomplica, em curso)
+-  Atualmente aprofundando: **Machine Learning, estatística aplicada e engenharia de dados**
 
 ---
 
@@ -65,7 +65,7 @@ Analista de Dados Jr. com atuação em **monetização de mídia programática**
 
 ### Projetos em destaque
 
-🤖 **[chatbot-ticket-agent (AURA)](https://github.com/ClintSant/chatbot-ticket-agent)** — *Python · LLM · NLP · Streamlit*
+ **[chatbot-ticket-agent (AURA)](https://github.com/ClintSant/chatbot-ticket-agent)** — *Python · LLM · NLP · Streamlit*
 > Agente conversacional para triagem automática de chamados corporativos. Usa **Groq/Llama** para classificação de gravidade e roteamento por departamento, e **sentence-transformers** com similaridade de cosseno para detectar tickets duplicados. Inclui geração de protocolo, captura estruturada de dados do solicitante e interface em Streamlit.
 
 🔹 **[Projeto-Argus](https://github.com/ClintSant/Projeto-Argus)** — *Python*
@@ -84,9 +84,9 @@ Analista de Dados Jr. com atuação em **monetização de mídia programática**
 
 ### Atualmente
 
-- 🛠️ Construindo um portfólio de projetos de Análise SQL e EDA com dados brasileiros
-- 📚 Estudando: **Machine Learning** (regressão e predição), **estatística aplicada** e **modelagem dimensional**
-- 🎯 Aberto a oportunidades de **Analista de Dados Jr.** e **Cientista de Dados Jr.**
+-  Construindo um portfólio de projetos de Análise SQL e EDA com dados brasileiros
+-  Estudando: **Machine Learning** (regressão e predição), **estatística aplicada** e **modelagem dimensional**
+-  Aberto a oportunidades de **Analista de Dados Jr.** e **Cientista de Dados Jr.**
 
 ### Em formação
 
@@ -96,4 +96,4 @@ Analista de Dados Jr. com atuação em **monetização de mídia programática**
 
 ---
 
-<sub>📍 Belo Horizonte, MG · 🇧🇷 Português (nativo) · 🇬🇧 Inglês intermediário (certificado Cenex/UFMG)</sub>
+
