@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Clinton Santos 👋</h1>
+<h1 align="center">Olá, eu sou o Clinton </h1>
 <h3 align="center">Analista de Dados | Filosofia ↦ Tecnologia</h3>
 
 <p align="center">
