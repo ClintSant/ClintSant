@@ -15,12 +15,7 @@
 
 ### Sobre mim
 
-Analista de Dados Jr. com atuação em **monetização de mídia programática** e **Business Intelligence**. Minha trajetória cruza **Filosofia (UFMG)** e **Ciência de Dados** — uma combinação rara que traz pensamento analítico estruturado, raciocínio lógico e curiosidade investigativa para o trabalho com dados.
-
--  **Bacharel em Filosofia – UFMG** (2021–2025) · Bolsista de Iniciação Científica CNPq (2022–2024)
--  **Analista de Dados Jr.** com experiência em mídia programática · Looker Studio, SQL, Python, Power BI
--  **Pós em Data Science** + **Graduação em Ciência de Dados e IA** (Descomplica, em curso)
--  Atualmente aprofundando: **Machine Learning, estatística aplicada e engenharia de dados**
+Analista de Dados com experiência em análise de dados transacionais em volume, automação de processos e desenvolvimento de dashboards de performance. Experiência prática em Python, SQL, Power BI, Tableau, DAX e Google Looker Studio, com foco em modelagem dimensional, pipelines de ETL e geração de insights para suporte à tomada de decisão. Perfil analítico e comunicativo, com histórico de atuação em ambientes corporativos e contato direto com stakeholders, hábil em lidar com diferentes públicos, gerenciar demandas simultâneas e entregar resultados com clareza e qualidade. Em formação contínua em Ciência de Dados e Machine Learning.
 
 ---
 
