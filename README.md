@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Clinton </h1>
-<h3 align="center">Analista de Dados | Filosofia ↦ Tecnologia</h3>
+<h3 align="center"> Analista de Dados Jr e Cientista de Dados em Formação </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clinton-santos-094b1b214/">
