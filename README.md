@@ -56,39 +56,4 @@ Analista de Dados com experiência em análise de dados transacionais em volume,
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square)
 ![Kanban](https://img.shields.io/badge/-Kanban-2C5BB4?style=flat-square)
 
----
-
-### Projetos em destaque
-
- **[chatbot-ticket-agent (AURA)](https://github.com/ClintSant/chatbot-ticket-agent)** — *Python · LLM · NLP · Streamlit*
-> Agente conversacional para triagem automática de chamados corporativos. Usa **Groq/Llama** para classificação de gravidade e roteamento por departamento, e **sentence-transformers** com similaridade de cosseno para detectar tickets duplicados. Inclui geração de protocolo, captura estruturada de dados do solicitante e interface em Streamlit.
-
-🔹 **[Projeto-Argus](https://github.com/ClintSant/Projeto-Argus)** — *Python*
-> *[Adicionar descrição quando atualizar o README do repo]*
-
-🔹 **[order-management-db](https://github.com/ClintSant/order-management-db)** — *SQL · SQLite*
-> Modelagem de banco de dados relacional para sistema de gestão de pedidos.
-
-🚧 **Em construção — Análise SQL: Olist E-commerce (Kaggle)**
-> Análise exploratória de e-commerce brasileiro com window functions, CTEs e estudo de comportamento de compra.
-
-🚧 **Em construção — EDA Python: dados públicos brasileiros**
-> Análise exploratória em Jupyter com Pandas e visualização aplicada a dados do IBGE/INEP.
-
----
-
-### Atualmente
-
--  Construindo um portfólio de projetos de Análise SQL e EDA com dados brasileiros
--  Estudando: **Machine Learning** (regressão e predição), **estatística aplicada** e **modelagem dimensional**
--  Aberto a oportunidades de **Analista de Dados Jr.** e **Cientista de Dados Jr.**
-
-### Em formação
-
-- Pós-Graduação em Data Science · Descomplica Faculdade Digital
-- Graduação em Ciência de Dados e IA · Descomplica Faculdade Digital
-- Statistics for Data Science · Machine Learning · Regressão e Predição
-
----
-
 
